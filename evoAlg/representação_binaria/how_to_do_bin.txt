@@ -1,0 +1,3 @@
+Nesse arquivo zip deve estar presente os arquivos "alg_gen_bin.c", além do arquivo de texto atual "how_to_do_bin.txt".
+Para a compilação desses arquivos basta executar o comando "gcc alg_gen_bin.c -o nome_do_executavel".
+Para a execução desses arquivos basta executar o comando "./nome_do_executável".
